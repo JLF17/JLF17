@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JL Fernandez</h1>
-<h4 align="center">I’m passionate in creating new ideas and develop into reality. I possess skills in front-end development, utilizing HTML, CSS, and JavaScript. I am experienced with various frameworks, libraries, and tools such as ReactJs, Bootstrap, jQuery also I am proficient in back-end development and have expertise in PHP, Laravel, and MySQL</h4>
+<h4 align="center">Hello Everyone!!</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=JLF17&label=Profile%20views&color=0e75b6&style=flat" alt="JLF17" /> </p>
 
